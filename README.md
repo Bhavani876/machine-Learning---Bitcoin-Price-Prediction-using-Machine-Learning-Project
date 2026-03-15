@@ -1,7 +1,9 @@
-Project Description:-
+**Project Description:-**
+
 This project focuses on predicting Bitcoin price trends using machine learning techniques. Historical Bitcoin market data such as opening price, closing price, high, low, and trading volume are used to train predictive models. The dataset is preprocessed, technical indicators are created, and multiple machine learning models are trained to understand price patterns. The goal of this project is to help analyze cryptocurrency market behavior and provide insights that can support better trading decisions.
 
-Step-by-Step Project Workflow:-
+**Step-by-Step Project Workflow:-**
+
 Step 1: Import Libraries
 
 Import required Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and XGBoost for data handling, visualization, and machine learning.
@@ -46,7 +48,8 @@ Step 9: Price Prediction
 
 Use the trained models to predict Bitcoin price trends based on historical data patterns.
 
-Conclusion:-
+**Conclusion:-**
+
 In this project, machine learning techniques were used to analyze and predict Bitcoin price trends using historical data. The dataset was processed using Python libraries such as Pandas and NumPy, and visualizations were created using Matplotlib and Seaborn to understand market patterns. Different machine learning models were trained and evaluated using performance metrics like MAE, MSE, and R² Score to measure prediction accuracy.
 
 This project shows how machine learning can help identify patterns in cryptocurrency markets and support data-driven investment decisions. In the future, the model can be improved by using advanced deep learning techniques such as LSTM or Transformer models and by integrating real-time cryptocurrency data from APIs for more accurate predictions.
